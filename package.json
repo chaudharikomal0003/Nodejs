@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21"
   }
 }
