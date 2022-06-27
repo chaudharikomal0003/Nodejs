@@ -10,3 +10,9 @@ setInterval(function(){
     clearInterval(timer);
   }
 }, 2000);
+
+//normal function statement
+function sayHi(){
+  console.log('Hi');
+}
+sayHi();
